@@ -1,12 +1,12 @@
+import Input from '@/components/Input';
 import axios from 'axios';
-import { useCallback, useState } from 'react';
 import { NextPageContext } from 'next';
 import { getSession, signIn } from 'next-auth/react';
-import { useRouter } from 'next/router';
-import { FcGoogle } from 'react-icons/fc';
-import { FaGithub } from 'react-icons/fa';
-import Input from '@/components/Input';
 import Image from 'next/image';
+import { useRouter } from 'next/router';
+import { useCallback, useState } from 'react';
+import { FaGithub } from 'react-icons/fa';
+import { FcGoogle } from 'react-icons/fc';
 
 export async function getServerSideProps(context: NextPageContext) {
   const session = await getSession(context);
