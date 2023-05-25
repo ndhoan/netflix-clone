@@ -1,7 +1,6 @@
 ## Live demo
 
-Official website: [https://weather-app-p4sa.vercel.app/](https://weather-app-p4sa.vercel.app/)
-
+Official website: [https://netflix-clone-ndhoan.vercel.app/](https://netflix-clone-ndhoan.vercel.app/)
 
 ## Main technology used
 
@@ -18,4 +17,3 @@ Official website: [https://weather-app-p4sa.vercel.app/](https://weather-app-p4s
 - Watch movie
 - Save movies to your favorite lists
 - Support ssr, seo friendly by nextjs
-
