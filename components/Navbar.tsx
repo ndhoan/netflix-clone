@@ -85,8 +85,8 @@ const Navbar = () => {
               <Image
                 src={'/images/default-blue.png'}
                 alt=''
-                width={100}
-                height={100}
+                width={256}
+                height={256}
               />
             </div>
             <BsChevronDown

@@ -39,8 +39,8 @@ const Profiles = () => {
                 <Image
                   src={'/images/default-blue.png'}
                   alt='Profile'
-                  width={100}
-                  height={100}
+                  width={256}
+                  height={256}
                 />
               </div>
               <div className='mt-4 text-gray-400 text-2xl text-center group-hover:text-white'>
